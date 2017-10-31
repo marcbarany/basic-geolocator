@@ -1,2 +1,2 @@
-# basic-geolocator
+# user-location
 Get location of user
