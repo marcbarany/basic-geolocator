@@ -1,2 +1,2 @@
-# geolocator.js
+# basic-geolocator.js
 Get location of user
