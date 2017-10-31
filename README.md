@@ -1,4 +1,4 @@
-# user-location
+# user-location-basic
 Get location of user
 
 user-location-basic.js
